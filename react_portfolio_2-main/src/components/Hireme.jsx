@@ -21,7 +21,7 @@ const Hireme = () => {
             className="max-w-sm md:block hidden"
           />
           <img
-            src={Hireme.image2}
+            src={Hireme.image1}
             data-aos="fade-up"
             alt="..."
             className="max-w-sm md:hidden"
