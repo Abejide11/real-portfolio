@@ -269,9 +269,9 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
-import person_project from "./assets/images/projects/person.png";
+// import project2 from "./assets/images/projects/img2.png";
+// import project3 from "./assets/images/projects/img3.png";
+// import person_project from "./assets/images/projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
@@ -323,6 +323,7 @@ export const content = {
       {
         count: "2+",
         text: "Years of Experinse in Web development",
+
       },
       {
         count: "10+",
@@ -427,21 +428,21 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
-    project_content: [
-      {
-        title: "Gym Website",
-        image: "", // fallback or replace with actual image path if available
-      },
-      {
-        title: "Social Media web",
-        image: project2,
-      },
-      {
-        title: "Creative Website",
-        image: project3,
-      },
-    ],
+    // image: person_project,
+    // project_content: [
+    //   {
+    //     title: "Gym Website",
+    //     image: "", // fallback or replace with actual image path if available
+    //   },
+    //   {
+    //     title: "Social Media web",
+    //     image: project2,
+    //   },
+    //   {
+    //     title: "Creative Website",
+    //     image: project3,
+    //   },
+    // ],
   },
   Testimonials: {
     title: "Testimonials",
