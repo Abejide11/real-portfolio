@@ -3,7 +3,7 @@ import pic from "../assets/Screenshot 2025-04-15 163127.jpg";
 import todo from "../assets/todo.jpg";
 import analog from "../assets/analog.jpg";
 import stop from "../assets/stop.jpg";
-import { Pagination } from "swiper";
+// import { Pagination } from "swiper";
 
 const Projects = () => {
   const { Projects } = content;
